@@ -19,3 +19,6 @@ All containers communicate over a private bridge network (`pulseframe-net`). Onl
 > [!IMPORTANT]
 > Use `.dockerignore` files to prevent large binaries or sensitive local files from being included in image builds.
 
+> [!IMPORTANT]
+> Run all Docker Compose commands via WSL (not Windows PowerShell) to ensure consistent paths and volume mounts.
+

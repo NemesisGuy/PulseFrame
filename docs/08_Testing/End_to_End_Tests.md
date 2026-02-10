@@ -3,6 +3,7 @@
 ## 🏁 E2E Test Cases
 
 E2E tests verify that all system components (Frontend, Backend, DB, Cache) work correctly as a unified system.
+Playwright is used for automated E2E coverage across critical user workflows.
 
 ### Case 1: Standard User Workflow
 

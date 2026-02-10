@@ -1,6 +1,6 @@
 # Agents Guidance
 
-This document defines how agents are structured, what they must implement, and how they coordinate in PulseFrame. It uses the BaseDocs framework as the baseline structure and adapts it to this project.
+This document defines how agents are structured, what they must implement, and how they coordinate in PulseFrame.
 
 ## 1. Agent Definitions
 

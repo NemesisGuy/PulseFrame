@@ -17,6 +17,7 @@
 
 - `VITE_API_URL`: The public-facing URL of the backend API.
 - `ALLOWED_ORIGINS`: CORS whitelist.
+- `PULSEFRAME_PORT_RANGE`: Reserved local port range (4020-40300) to avoid conflicts.
 
 ---
 

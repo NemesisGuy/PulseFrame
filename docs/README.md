@@ -1,6 +1,6 @@
-# Project Documentation Framework
+# PulseFrame Documentation
 
-Welcome to the **PulseFrame** documentation. This framework is designed to be a comprehensive, modular, and reusable base for high-performance engineering projects.
+Welcome to the **PulseFrame** documentation. These docs provide a comprehensive, modular guide to the project.
 
 ## 🚀 Quick Start for New Projects
 

@@ -4,6 +4,12 @@
 
 We maintain high quality through a multi-tiered testing approach.
 
+## ✅ Tooling Summary
+
+- Unit tests: JUnit 5 (backend) and Vitest (frontend).
+- Integration tests: JUnit 5 + MockMvc.
+- E2E tests: Playwright.
+
 ### 1. Unit Tests
 
 - **Scope**: Individual functions and components.
