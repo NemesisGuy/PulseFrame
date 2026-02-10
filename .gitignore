@@ -1,0 +1,40 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv.bak/
+.env
+.env.*
+
+# Node/Vue
+node_modules/
+dist/
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+target/
+
+# Docker
+*.pid
+
+# Temp
+.tmp/
+tmp/
+**/tmp/
+
+# Redis
+*.rdb
