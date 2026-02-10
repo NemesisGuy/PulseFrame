@@ -215,3 +215,4 @@ Resource allocation:
 - Logging: each agent returns structured JSON logs.
 - Error handling: agents return { status, error, retryable }.
 
+
