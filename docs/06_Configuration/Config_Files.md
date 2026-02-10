@@ -13,7 +13,7 @@
 ### Backend (application.yml)
 
 - **`spring.datasource`**: Connection pooling and driver settings.
-- **`voxbox.security`**: JWT and CORS configuration.
+- **`pulseframe.security`**: JWT and CORS configuration.
 
 ### Frontend (.env)
 

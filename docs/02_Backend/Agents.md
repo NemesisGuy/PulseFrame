@@ -17,9 +17,9 @@ The system utilizes specialized "Agents" to handle discrete domain tasks.
 
 ## 🧩 Module Breakdown
 
-- **`com.voxbox.app.service`**: Business logic encapsulation.
-- **`com.voxbox.app.repository`**: JPA-based data access.
-- **`com.voxbox.app.dto`**: Data Transfer Objects for API contracts.
+- **`com.pulseframe.api.service`**: Business logic encapsulation.
+- **`com.pulseframe.api.repository`**: JPA-based data access.
+- **`com.pulseframe.api.dto`**: Data Transfer Objects for API contracts.
 
 ---
 

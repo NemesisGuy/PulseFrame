@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-**PulseFrame** is a modular solution designed to solve converting AI music into shareable visualizer videos. It leverages Vue 3, Spring Boot, ffmpeg, Redis to deliver a unified experience for creators and labels using AI music.
+**PulseFrame** is a modular solution designed to convert AI music into shareable visualizer videos. It leverages Vue 3, Spring Boot, ffmpeg, and Redis to deliver a unified experience for creators and labels using AI music.
 
 ## 🏗️ Core Concept
 

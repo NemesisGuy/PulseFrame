@@ -26,5 +26,5 @@ graph TD
 ---
 
 > [!IMPORTANT]
-> Adhere to the `ARCHITECTURE_RULES.md` for all new structural changes to maintain consistency.
+> Align structural changes with the project spec and agents guidance documents in the root docs folder.
 
